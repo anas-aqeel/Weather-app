@@ -1,6 +1,6 @@
 ## WeatherX | Live Weather - React App
 
-### [Demo Link](https://weatherx-live.netlify.app/) 🔗
+### [Demo Link]() 🔗
 
 Live Weather Searching React App, built with the help of **OpenWeather API**.
 
@@ -14,9 +14,6 @@ Live Weather Searching React App, built with the help of **OpenWeather API**.
 
 <br/>
 
-## Author:
-
-- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshan-songara/)**
 
 <br/>
 
